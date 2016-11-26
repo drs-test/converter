@@ -1,0 +1,7 @@
+.messages {}
+.welcomeMessage {}
+.wrongLogin {color:red;}
+.successfulLogout { color:green;}
+.registerLink{
+    float:right;
+}
