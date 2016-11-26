@@ -22,7 +22,7 @@ import javax.sql.DataSource;
 import java.util.Properties;
 
 /**
- * Created by Dragan Susak on 25-Nov-16.
+ * Created by dragan
  */
 @Configuration
 @EnableJpaRepositories(basePackages = "de.zooplus.converter.dao.repository",

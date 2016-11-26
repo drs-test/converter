@@ -13,7 +13,7 @@ import org.mockito.runners.MockitoJUnitRunner;
 import static org.mockito.Matchers.any;
 
 /**
- * Created by Dragan Susak on 25-Nov-16.
+ * Created by dragan
  */
 @RunWith(MockitoJUnitRunner.class)
 public class UserServiceTest {

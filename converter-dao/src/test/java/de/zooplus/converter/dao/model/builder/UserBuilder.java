@@ -5,7 +5,7 @@ import de.zooplus.converter.model.entity.User;
 import java.util.Date;
 
 /**
- * Created by Dragan Susak on 25-Nov-16.
+ * Created by dragan
  */
 public class UserBuilder {
 

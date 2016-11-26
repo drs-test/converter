@@ -14,7 +14,7 @@ import org.springframework.test.context.transaction.TransactionConfiguration;
 import java.util.List;
 
 /**
- * Created by Dragan Susak on 25-Nov-16.
+ * Created by dragan
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @TransactionConfiguration
