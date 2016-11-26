@@ -1,1 +1,3 @@
 language: java
+sudo: false
+script: mvn clean install -f converter-parent/pom.xml
