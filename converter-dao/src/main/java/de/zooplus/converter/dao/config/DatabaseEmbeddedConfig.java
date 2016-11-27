@@ -187,7 +187,6 @@ public class DatabaseEmbeddedConfig {
             final Server server = Server.createTcpServer("-tcpPort", Integer.toString(dbServerPort), "-tcpAllowOthers", "-baseDir", dapAppDataDir);
             server.start();
         } catch (final SQLException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
 
